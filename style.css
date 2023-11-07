@@ -1,3 +1,7 @@
+html {
+    font-family: Helvetica;
+}
+
 h1 {
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*tzhtgw*_ga*MTczNTIyMTIwMy4xNjk2MjYyODE4*_ga_3LRZM6TM9L*MTY5OTM2NTM2OC4xMTAuMS4xNjk5MzY1NDI1LjMuMC4w");
     font-family: Helvetica;
